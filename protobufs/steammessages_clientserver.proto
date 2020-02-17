@@ -1,3 +1,5 @@
+syntax = "proto2";
+
 import "steammessages_base.proto";
 import "encrypted_app_ticket.proto";
 
